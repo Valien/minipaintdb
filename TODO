@@ -1,0 +1,5 @@
+* Scan sites (see spreadsheet)
+* pull sku's, numbers, colors,
+* store said info
+* use flask to build out web portal/site?
+* containerize?
